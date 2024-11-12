@@ -1,0 +1,56 @@
+body {
+    background-color: #eda5a5;
+    color: #810f0f;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "MuseoModerno", sans-serif;
+
+}
+
+h1{
+    font-size: 72px;
+    line-height: 100%;
+}
+
+h2{
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: capitalize;
+    padding: 16px 24px;
+    margin: 16px 10px 16px -24px;
+    border: 10px solid;
+    border-radius: 36px 80px;
+    
+}
+
+p{
+    font-size: 16px;
+    text-indent: 32px;
+    margin-bottom: 27px;
+    text-align: left;
+}
+
+span{
+    font-weight: 500;
+    font-style:italic;
+    color: crimson;
+
+}
+
+a{
+    text-decoration: underline;
+    color: crimson;
+    transition: all 0.3s;
+}
+
+a:hover{
+    color: #ff3e3e;
+     
+}
+
+.intro {
+    font-weight: 600;
+    text-indent: 48px;
+    text-align: left;
+}
